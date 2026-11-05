@@ -31,12 +31,14 @@ body {
   padding: 30px 24px;
   border-radius: 16px;
   box-shadow: var(--shadow);
+  display: flex;
 }
 
 h1 {
   text-align: center;
   margin: 0 0 20px;
   color: var(--primary-dark);
+  boundary: 0 0 10px 0;
 }
 
 .todo-form {
